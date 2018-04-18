@@ -1,4 +1,6 @@
 hello
 ‚±‚ñ‚É‚¿‚Í
 sfljalf
-git diff
+git add
+git commit
+git commit --amend
