@@ -1,2 +1,4 @@
 hello
 ‚±‚ñ‚É‚¿‚Í
+sfljalf
+git diff
